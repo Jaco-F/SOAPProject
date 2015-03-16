@@ -9,7 +9,7 @@ import javax.xml.ws.Endpoint;
 public class Publisher {
     public static void main(String[] argv) {
         Object implementor = new MovieServerImpl();
-        String address = "http://localhost:9000/services/MovieService";
+        String address = "http://192.168.0.4:9000/services/MovieService";
         Endpoint.publish(address, implementor);
     }
 }
