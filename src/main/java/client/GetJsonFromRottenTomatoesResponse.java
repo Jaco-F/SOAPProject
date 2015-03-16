@@ -36,7 +36,7 @@ public class GetJsonFromRottenTomatoesResponse {
     protected String _return;
 
     /**
-     * Recupera il valore della propriet√† return.
+     * Recupera il valore della propriet‡ return.
      * 
      * @return
      *     possible object is
@@ -48,7 +48,7 @@ public class GetJsonFromRottenTomatoesResponse {
     }
 
     /**
-     * Imposta il valore della propriet√† return.
+     * Imposta il valore della propriet‡ return.
      * 
      * @param value
      *     allowed object is
